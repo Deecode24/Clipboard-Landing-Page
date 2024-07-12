@@ -1,2 +1,2 @@
 # Clipboard-Landing-Page
-This is a projec from Frontend Mentor
+This is a project from Frontend Mentor
